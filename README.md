@@ -21,4 +21,4 @@ Steps:
 
 Credits: ritz#9999 (<a href="https://github.com/ritz-codes">Github</a>, <a href="https://discord.gg/e42BpF2sS2">Discord Server</a>), nameless, Micca#1338 (<a href="https://github.com/Micca1338">Github</a>), Harvey#6998.
 
-If you want me to take this repo down contact me at: hwnd#6600 on discord or nomnotgaystfu@gmail.com via email.
+If you want me to take this repo down contact me at: hwnd#1337 on discord or nomnotgaystfu@gmail.com via email.
